@@ -1,21 +1,25 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saabir Muridi
 =====================================================================================================================================
 
-I am a student at Michigan State University studying Computer Science and MI. I have experience in C++, Python, C#, and HTML. I have a passion for frontend development and am always looking for an opportunity to broaden my skills and abilities. I hope to work as a software developer or web developer in the future. I have also worked with Unity and dabbled in making a couple games that you can check out in my portfolio link below alongside other things I have worked on.
+I am a student at Michigan State University studying Computer Science and MI. I have experience in languages such as C++, Python, C#, JavaScript, HTML, etc. I have a passion for broadening my knowledge in development and am always looking for an opportunity to working on new skills and abilities. I hope to work as a software developer or web developer in the future. I have also worked with Unity and dabbled in making a couple games that you can check out in my portfolio link below alongside other things I have worked on.
 
 * 🌍  I'm based in Lansing, MI
-* 🖥️  See my portfolio at [Github Portfolio](http://github.com/SaabirMuridi/Saabir-Muridi-Portfolio)
-* ✉️  You can contact me at [muridis2@msu.edu](mailto:muridis2@msu.edu)
+* ✉️  You can contact me at [saabir.m101@gmail.com](mailto:saabir.m101@gmail.com)
+* 🚀  I'm currently working on [The Odin Project](http://https://www.theodinproject.com/paths)
+* 🧠  I'm learning Full Stack JavaScript
 
 ### Skills
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
 
