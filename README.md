@@ -5,8 +5,6 @@ I am a Michigan State University graduate with a Major in Media and Information 
 
 * 🌍  I'm based in Lansing, MI
 * ✉️  You can contact me at [saabir.m101@gmail.com](mailto:saabir.m101@gmail.com)
-* 🚀  I'm currently working on [The Odin Project](http://https://www.theodinproject.com/paths)
-* 🧠  I'm learning Full Stack JavaScript
 
 ### Skills
 
