@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Michigan State University graduate with a Major in Media and Information (Game Dev Focus) and Minor in Computer Science. I have experience in languages such as C++, Python, C#, JavaScript, HTML, etc. I have a passion for broadening my knowledge in development and am always looking for an opportunity to working on new skills and abilities. I hope to work as a software developer or web developer in the future. I have also worked with Unity and dabbled in making a couple games that you can check out in my portfolio link below alongside other things I have worked on.
 
 * 🌍  I'm based in Lansing, MI
-* ✉️  You can contact me at [saabir.m101@gmail.com](mailto:muridisaabir@gmail.com)
+* ✉️  You can contact me at [muridisaabir@gmail.com](mailto:muridisaabir@gmail.com)
 
 ### Skills
 
